@@ -15,7 +15,7 @@ for (let i=0; i <= 100; i++) {
 
 // Part 2: Prime Time
 
-let n = -10; //CHANGE THIS TO YOUR NUMBER
+let n = 5; //CHANGE THIS TO YOUR NUMBER
 
 while (true) {
     n++;
